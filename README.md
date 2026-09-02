@@ -47,14 +47,8 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <!-- Stats e Top Linguagens (Versão otimizada sem timeout) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EduRhamos&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" alt="Estatísticas do GitHub" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduRhamos&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" alt="Top Linguagens" height="190" />
-</p>
-
-<p align="center">
   <!-- GitHub Streak (Dias Consecutivos) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduRhamos&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduRhamos&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=false" alt="GitHub Streak" height="190" />
 </p>
 
 ---
