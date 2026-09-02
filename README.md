@@ -10,7 +10,7 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
 
 ### 🚀 O que estou estudando e construindo
 - 🎓 **Graduação:** Cursando o 3º trimestre de ADS na FGV.
-- 💻 **Backend (Java):** Aprofundando no ecossistema Java (Orientação a Objetos, Clean Code, Design Patterns)[cite: 1] e na construção de REST APIs completas com Spring Boot, Hibernate e modelagem de banco de dados[cite: 2].
+- 💻 **Backend (Java):** Aprofundando no ecossistema Java (Orientação a Objetos, Clean Code, Design Patterns) e na construção de REST APIs completas com Spring Boot, Hibernate e modelagem de banco de dados.
 - 🧠 **Matemática & Algoritmos:** Construindo base teórica forte com Matemática Discreta, Álgebra Linear e algoritmos avançados (utilizando currículos do MIT e UC Berkeley). O foco é entender a engenharia por trás do código.
 - 💡 **Projetos Práticos:** Desenvolvendo aplicações com Spring Boot e integrações de IA, focando em padrões corporativos e boas práticas de mercado (Bootcamp DIO / Itaú).
 
@@ -30,11 +30,17 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws" alt="Infra Stack" />
 </a>
 
-**Tools**
+**Tools & IDEs**
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vim,idea,vscode,postman" alt="Tools Stack" />
 </a>
+
+**AI & Coding Assistants**
+<br>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
 
 ---
 
