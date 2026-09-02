@@ -10,7 +10,7 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
 
 ### 🚀 O que estou estudando e construindo
 - 🎓 **Graduação:** Cursando o 3º trimestre de ADS na FGV.
-- 💻 **Backend (Java):** Aprofundando no ecossistema Java (Orientação a Objetos, Clean Code, Design Patterns) e na construção de REST APIs completas com Spring Boot, Hibernate e modelagem de banco de dados.
+- 💻 **Backend (Java):** Aprofundando no ecossistema Java (Orientação a Objetos, Clean Code, Design Patterns)[cite: 1] e na construção de REST APIs completas com Spring Boot, Hibernate e modelagem de banco de dados[cite: 2].
 - 🧠 **Matemática & Algoritmos:** Construindo base teórica forte com Matemática Discreta, Álgebra Linear e algoritmos avançados (utilizando currículos do MIT e UC Berkeley). O foco é entender a engenharia por trás do código.
 - 💡 **Projetos Práticos:** Desenvolvendo aplicações com Spring Boot e integrações de IA, focando em padrões corporativos e boas práticas de mercado (Bootcamp DIO / Itaú).
 
@@ -21,19 +21,19 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
 **Backend & Databases**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,nodejs,postgres,mysql&perline=10" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,mysql" alt="Backend Stack" />
 </a>
 
 **OS, Infra & DevOps**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws&perline=10" alt="Infra Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws" alt="Infra Stack" />
 </a>
 
-**Tools & AI**
+**Tools**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vim,idea,vscode,postman,insomnia,copilot&perline=10" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=git,vim,idea,vscode,postman" alt="Tools Stack" />
 </a>
 
 ---
@@ -42,21 +42,22 @@ Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe 
 
 <p align="center">
   <!-- Stats e Top Linguagens (Lado a Lado) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EduRhamos&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduRhamos&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" alt="Top Linguagens" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduRhamos&amp;show_icons=true&amp;bg_color=000000&amp;title_color=00FF41&amp;text_color=00FF41&amp;icon_color=00FF41&amp;border_color=00FF41&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduRhamos&amp;layout=compact&amp;bg_color=000000&amp;title_color=00FF41&amp;text_color=00FF41&amp;border_color=00FF41&amp;hide_border=false" alt="Top Linguagens" height="190" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak (Dias Consecutivos) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduRhamos&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=false" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduRhamos&amp;background=000000&amp;stroke=00FF41&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakNum=00FF41&amp;sideNums=00FF41&amp;currStreakLabel=00FF41&amp;sideLabels=00FF41&amp;dates=00FF41&amp;hide_border=false" alt="GitHub Streak" height="190" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Eduardo" />
 </a>
-<a href="mailto:edurhamos@outlook.com" target="_blank">
+<a href="mailto:seu-email@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Eduardo" />
 </a>
