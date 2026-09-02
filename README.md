@@ -1,10 +1,10 @@
 # Olá, sou o Eduardo! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (FGV) buscando minha primeira oportunidade como **Estagiário em Desenvolvimento de Software**.
+Estudante de Análise e Desenvolvimento de Sistemas na FGV, focado em Engenharia de Software e desenvolvimento **Backend**.
 
-Minha trajetória profissional me deu uma base que considero meu maior diferencial: a compreensão de que o código existe para resolver problemas reais de negócio. Antes de focar na Engenharia de Software, atuei na área administrativa e apoiei a implantação de um sistema ERP em uma indústria. 
+Minha vivência anterior na área de negócios corporativos me proporcionou uma compreensão profunda de como a tecnologia impacta resultados. Ao atuar ativamente na implantação de sistemas ERP corporativos, desenvolvi a habilidade de traduzir necessidades estratégicas (processos fiscais, produção e estoque) em requisitos técnicos e soluções eficientes.
 
-Fiz a ponte entre as áreas da empresa (estoque, produção, fiscal) e a equipe de desenvolvimento. Foi traduzindo as necessidades dos usuários para requisitos técnicos e lendo meus primeiros códigos para entender o sistema que descobri minha vocação para a área técnica. Hoje, aplico essa maturidade e visão estratégica para construir soluções do zero, focando em arquiteturas robustas e escaláveis.
+Hoje, aplico essa bagagem, visão de produto e maturidade profissional na construção de softwares escaláveis. Meu foco técnico atual está no ecossistema Java (Spring Boot) e em arquitetura de sistemas, aliados a uma sólida base matemática e algorítmica para a resolução de problemas complexos.
 
 ---
 
